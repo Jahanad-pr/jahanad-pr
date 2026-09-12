@@ -1,34 +1,28 @@
-# Hi, I'm Salu 👋
+## Hey there 👋
 
-### Full Stack Developer | MERN • TypeScript • SQL
+I'm Jahanad P. R, a full stack developer focused on building practical and user-focused web applications.
 
-I build practical, scalable, and user-focused web applications while continuously exploring new technologies and better ways to solve problems.
+I mostly work with the MERN stack — MongoDB, Express.js, React, and Node.js, along with TypeScript and SQL.
 
-## 🚀 What I'm Working On
+I'm a self-learner and researcher who enjoys exploring new technologies, experimenting with ideas, and turning them into real-world projects.
 
-- Building full-stack applications with the MERN stack
-- Exploring TypeScript, SQL, and modern development practices
-- Learning and experimenting with AI-assisted development
-- Improving my problem-solving and software engineering skills
-
-## 🛠️ Tech I Use
-
-**Frontend:** React.js, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, SQL  
-**Tools:** Git, GitHub, REST APIs
-
-## 📌 Featured Project
-
-**E-Commerce Web Application**  
-A full-stack application built with hands-on experience in frontend development, backend APIs, databases, authentication, and application architecture.
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 [Email](mailto:YOUR_EMAIL)
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+Currently, I'm also exploring AI and AI-assisted development while strengthening my core development skills.
 
 ---
 
-> Always learning. Always building. Always moving with technology. 🚀
+### 🛠️ Tools & Tech
+
+- MongoDB, Express.js, React.js, Node.js
+- JavaScript, TypeScript, SQL
+- Git & GitHub
+- REST APIs
+
+---
+
+### A Bit About Me
+
+- 🔍 Curious about how things work
+- 🧩 Enjoy solving problems and building simple solutions
+- 🚀 Always learning and experimenting
+- 💻 I like building things that are practical, useful, and easy to understand
+- 🤖 AI enthusiast
