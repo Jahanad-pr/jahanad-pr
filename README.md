@@ -1,4 +1,4 @@
-## Hey there 👋
+### Hey there 👋
 
 I'm Salu, a full stack developer focused on building practical and user-focused web applications.
 
